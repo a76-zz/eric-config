@@ -1,4 +1,4 @@
-const port = 3000
+const port = 3009
 const host = 'tv-cloud.localtest.me'
 
 const messageTypes = [
